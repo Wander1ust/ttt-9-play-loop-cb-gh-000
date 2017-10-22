@@ -44,7 +44,7 @@ def play(board)
       m = valid_move?(board, index)
       move(board, index, char="X")
     end
-  end
+
 
 
   end
